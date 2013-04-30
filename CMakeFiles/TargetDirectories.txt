@@ -1,2 +1,0 @@
-/home/gustav/source/twcpp/CMakeFiles//usr/local/include.dir
-/home/gustav/source/twcpp/CMakeFiles/tw.dir
