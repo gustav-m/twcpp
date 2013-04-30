@@ -1,0 +1,1 @@
+/usr/bin/c++       CMakeFiles/tw.dir/maintest.cpp.o CMakeFiles/tw.dir/tweet.cpp.o CMakeFiles/tw.dir/twitter.cpp.o  -o tw -rdynamic 
